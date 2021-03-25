@@ -1,5 +1,5 @@
 [package]
-name = "three-2"
+name = "day3-2"
 version = "0.1.0"
 authors = ["Jesse Porch <jesse.porch@simplisafe.com>"]
 edition = "2018"
